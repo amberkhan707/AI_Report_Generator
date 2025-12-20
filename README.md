@@ -1,5 +1,8 @@
 <img width="1913" height="783" alt="image" src="https://github.com/user-attachments/assets/41a54b03-49f5-4add-8a0f-8596a34741bb" />
 
+<img width="1842" height="713" alt="image" src="https://github.com/user-attachments/assets/39a038e2-7d18-48a6-bc79-ae3e1c2ba6b5" />
+
+<img width="1827" height="662" alt="image" src="https://github.com/user-attachments/assets/c1e5bebd-4a91-4d5e-8c6c-2490fdfa6a8d" />
 
 # AI Report Generator
 
