@@ -5,6 +5,9 @@
 <img width="1827" height="662" alt="image" src="https://github.com/user-attachments/assets/c1e5bebd-4a91-4d5e-8c6c-2490fdfa6a8d" />
 
 # AI Report Generator
+langsmith_api_key = "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"
+groq_api_key = "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"
+hf_api_key = "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"
 
 A simple Streamlit application that generates a structured, AI-written technical report or blog post and allows exporting the final output as a PDF.  
 The app uses **LangGraph** for workflow orchestration and **Groq-hosted LLMs** for content generation.
